@@ -1,6 +1,6 @@
-class User
+class UsYou
     name = "abdu"
-    age = 29
+    age = "29"
     work = "programmer"
 
     #methods
@@ -11,6 +11,6 @@ class User
 
 end
 
-user = User.new
+user = UsYou.new
 
-p user.first_metod
+puts user.first_metod
