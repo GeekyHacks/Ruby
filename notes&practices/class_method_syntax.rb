@@ -1,7 +1,7 @@
-class UsYou
-    name = "abdu"
-    age = "29"
-    work = "programmer"
+class User
+    @name = "abdu"
+    @age = "29"
+    @work = "programmer"
 
     #methods
     def first_metod
@@ -11,6 +11,6 @@ class UsYou
 
 end
 
-user = UsYou.new
+one = UsYou.new
 
-puts user.first_metod
+puts one.first_metod
