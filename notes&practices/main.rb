@@ -1,4 +1,4 @@
-class User
+class UsYou
     @name = "abdu"
     @age = "29"
     @work = "programmer"
